@@ -1,0 +1,17 @@
+## Coverage directory used by tools like istanbul
+
+/coverage/
+
+## Dependency directory
+## https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+
+node_modules
+
+## Package artifacts
+
+# 构建后的代码
+# build
+
+## Test bundle artifacts
+
+# test-bundles
